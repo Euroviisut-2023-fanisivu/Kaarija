@@ -45,11 +45,14 @@ a {
 
 
 .column2 {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom:20px;
     float:left;
     width: 50%;
     padding: 15px;
   transition: flex 0.5s;
-  border: 2px solid #ddd;
+  
   }
   
 table {
@@ -91,7 +94,9 @@ table {
         width: 50%;
     }
     .column {
-        
+        margin-left: 20px;
+        margin-right: 20px;
+            marhin-bottom: 20px;
           float: left;
           width: 33.33%;
           padding: 15px;
