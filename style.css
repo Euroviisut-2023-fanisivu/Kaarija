@@ -77,6 +77,7 @@ table {
     margin-right:20px;
     margin-bottom: 40px;
     object-position: center;
+      width:100%;
     }
     .body {
         display: flex;
