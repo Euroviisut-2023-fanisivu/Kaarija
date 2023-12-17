@@ -99,7 +99,7 @@ table {
         margin-right: 20px;
             margin-bottom: 20px;
           float: left;
-          width: 33.33%;
+          width: calc(33.33% - 20px);
           padding: 15px;
         transition: flex 0.5s;
         }
